@@ -13,7 +13,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetanmalagoudar&label=Profile%20views&color=0e75b6&style=flat" alt="chetanmalagoudar" /> </p>
 
 <!-- Additional Information -->
-- 🔭 I’m currently working on **Terraform**
+- 🔭 I’m currently working as **Software Engineer at Qapita**
 - 🌱 I’m currently learning **Ansible**
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/chetanmalagoudar?tab=repositories)
 - 💬 Ask me about **Docker, Kubernetes, Cloud, AWS, Terraform**
